@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 I am currently learning on MERN stack
 
 
@@ -15,3 +15,4 @@ I am currently learning on MERN stack
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhishek &icon=0&color=0)](https://visitcount.itsvg.in)
 
+](https://www.linkedin.com/in/abhi-shek-45663a198/)https://www.linkedin.com/in/abhi-shek-45663a198/
